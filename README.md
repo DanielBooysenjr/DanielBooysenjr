@@ -1,4 +1,4 @@
-![MasterHead](https://media2.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
+<img src="https://media2.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="MasterHead">
 
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate developer from South Africa</h3>
