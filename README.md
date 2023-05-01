@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate developer from South Africa</h3>
-<a href="https://www.danielbooysen.com" target="_blank"><h4 align="center">Visit Website</h4></a>
+<h3 align="center"><a href='https://www.danielbooysen.com' target='_blank'>Visit Website</a></h3>
 <img align="right" alt="Coding Image" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielbooysenjr&label=Profile%20views&color=0e75b6&style=flat" alt="danielbooysenjr" /> </p>
